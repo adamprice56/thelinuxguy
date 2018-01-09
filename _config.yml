@@ -1,12 +1,12 @@
 # Site settings
-title: The Linux Guy!
+title: The Linux Guy
 email: adam@thelinuxguy.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   The ramblings of a Linux obsessed IT technician! 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "https://thelinuxguy.com" # the base hostname & protocol for your site
+url: "https://thelinuxguy.co.uk" # the base hostname & protocol for your site
 
 twitter_username: TheLinux_Guy
 github_username:  adamprice56
