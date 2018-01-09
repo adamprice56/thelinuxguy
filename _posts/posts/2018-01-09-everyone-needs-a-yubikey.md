@@ -19,5 +19,13 @@ So, for example... Hunter2, Spain1965, Cherry2016, Amazing77 or even Password123
 
 For the more "Security concious" people out there, It doesn't take much to turn these passwords into more complex, but easy to remember versions. Maybe Hun73r2!, Sp41n1965#, (Ch3rry2o16) or Am4z1nG77$. Okay, some are easier than others, but you get the idea!
 
+The thing is, good passwords arent enough anymore. A computer can guess these fairly easily with a process called Brute-Forcing. An attacker can get a huge list of passwords that are just like the exampels above, and then the computer can try those and substitute letters for numbers, symbols and change the case of letters. So those "secure" passwords are now just as easy to crack. 
+
+**Great. So passwords are pointless?**
+
+Yes. Well, No... Not on their own. Passwords are good, but they are annoying. As i said earlier, People hate complex passwords, so we need a second factor. Ever heard that before? 
+
+_ Two-Factor enters the stage... _
+
 
 
