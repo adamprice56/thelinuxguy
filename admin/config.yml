@@ -16,8 +16,8 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Difficulty", name: "rating", widget: "number"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Difficulty", name: "rating", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "guides" # Used in routes, e.g., /admin/collections/blog
     label: "Guides" # Used in the UI
@@ -28,8 +28,8 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Difficulty", name: "rating", widget: "number"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Difficulty", name: "rating", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
 
