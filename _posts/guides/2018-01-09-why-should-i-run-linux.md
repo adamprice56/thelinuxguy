@@ -2,8 +2,8 @@
 layout: blog
 title: Why should I run Linux?
 date: 2018-01-09T17:43:54.301Z
-thumbnail: /images/uploads/2000px-webpage_icon-powered_by_linux.svg.png
-rating: '0'
+thumbnail: ''
+rating: ''
 ---
 I'm sure you've heard a lot about Linux and how it has a reputation for being for "Hackers" or "Techy people"... But these days, Linux is just as easy to use as as any other system on your PC or Mac. 
 
